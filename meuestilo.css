@@ -1,0 +1,81 @@
+.oi{
+    margin-left: 650px;
+    font-family: serif;
+}
+
+h1{
+    font-size: 50px;
+    font-family: serif;
+    text-align: center;
+    color:   rgb(25, 99, 179);
+  
+}
+
+body{
+    background-color: white;
+}
+
+.col{
+    color:rgb(25, 99, 179);
+    font-size: 30px;
+    font-family: serif;
+    margin-left: 300px;
+}
+
+h2{  
+    color: rgb(6, 81, 156);
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+}
+
+p{
+
+    color: black;
+}
+
+h3{
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    color: rgb(6, 81, 156);
+}
+
+h5{
+    text-align: center;
+    font-family: serif;
+    font-size: 40px;
+    color: rgb(6, 81, 156);
+}
+
+h2{
+    
+    font-family: serif;
+    font-size: 40px;
+    color: rgb(6, 81, 156);
+    margin-right: 970px;
+}
+
+h4{
+     
+    font-family: serif;
+    font-size: 40px;
+    color: rgb(6, 81, 156);
+    margin-left: 300px; 
+}
+
+h6{
+ 
+    font-family: serif;
+    font-size: 40px;
+    color: rgb(6, 81, 156);
+    margin-left: 300px; 
+}   
+
+.u{
+    
+    font-size: 40px;
+    font-family: serif;
+    text-align: center;
+    color: rgb(6, 81, 156);
+}
